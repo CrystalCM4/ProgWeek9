@@ -1,13 +1,57 @@
 {
-    "rock":{
-
+    "type0":{
+        "name":"Normal Enemy",
+        "plays": [
+            "Battery", "Car", "Diamond", "Fire", "Fridge", "Money", "Paper", "Person", "Pickaxe", "Road", "Rock", "Scissors", "Water"
+        ]
     },
 
-    "paper":{
-
+    "type1":{
+        "name": "Default Enjoyer",
+        "plays":[
+            "Rock", "Paper", "Scissors"
+        ]
+    },
+    
+    "type3":{
+        "name": "Thirsty Man",
+        "plays":[
+            "Water", "Fridge"
+        ]
     },
 
-    "scissors":{
-        
+    "type4":{
+        "name": "Minecraft Fan",
+        "plays":[
+            "Diamond", "Pickaxe", "Rock", "Water", "Paper", "Fire"
+        ]
+    },
+
+    "type5":{
+        "name": "Gwen",
+        "plays":[
+            "Scissors"
+        ]
+    },
+
+    "type6":{
+        "name": "Rich Dude",
+        "plays":[
+            "Diamond", "Car", "Money"
+        ]
+    },
+
+    "type7":{
+        "name": "Caveman",
+        "plays":[
+            "Rock", "Fire"
+        ]
+    },
+
+    "type8":{
+        "name": "Niche Picker",
+        "plays":[
+            "Car", "Person", "Scissors", "Fridge"
+        ]
     }
 }

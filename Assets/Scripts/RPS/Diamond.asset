@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3d5a60a3dd76ea4b84369c907a0585f, type: 3}
+  m_Name: Diamond
+  m_EditorClassIdentifier: 
+  moveName: Diamond
+  beats:
+  - {fileID: 11400000, guid: 302f1fcdbb19d844ebac93b632784486, type: 2}
+  - {fileID: 11400000, guid: c7b9bf97a2a1d01468cf989610bf5dbe, type: 2}
+  - {fileID: 11400000, guid: 9b2aa1af501b3634eab377fdb28dc58f, type: 2}
+  - {fileID: 11400000, guid: 26d22a04c81b70344851f4a7b6313461, type: 2}
